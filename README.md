@@ -27,8 +27,11 @@
 | Layer | Technologies |
 |-------|---------------|
 | **Frontend** | HTML5, CSS3, JavaScript |
+|**Bckend** | Spring Boot|
+|** Sql** | MY-SQL|
 | **Design** | Custom CSS Styling |
 | **Hosting (Optional)** | GitHub Pages |
+
 
 ---
 
